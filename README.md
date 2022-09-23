@@ -4,6 +4,8 @@ Tool for runtime execution of node applications using Javascript.
 
 ## Running
 
+This repository is PRECOMPILED.`
+
 	./iojs --version
 
 ## Naming
@@ -30,7 +32,7 @@ Tool for runtime execution of node applications using Javascript.
 
 ### Install io.js
 
-
+	tar -xvf iojs-v3.3.1.tar.gz
 	cd /path/to/iojs
 	./configure
 	make	
