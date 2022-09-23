@@ -2,6 +2,10 @@
 
 Tool for runtime execution of node applications using Javascript.
 
+## Running
+
+	./iojs --version
+
 ## Naming
 
 	io.js		Software
