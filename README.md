@@ -202,6 +202,7 @@ as `deps/icu` (You'll have: `deps/icu/source/...`)
 
 ```text
 > vcbuild full-icu
+```
 
 ### FIPS-compliant OpenSSL
 
